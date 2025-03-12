@@ -1,0 +1,9 @@
+caller,callee,duration,status
+1001,2001,120,completed
+1002,2002,45,failed
+1003,2003,75,completed
+1004,2004,10,failed
+1005,2005,200,completed
+1006,2006,30,failed
+1006,2001,30,failed
+1002,2012,45,failed

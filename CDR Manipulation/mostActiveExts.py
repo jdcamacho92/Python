@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 from collections import Counter
-
+from collections import defaultdict
 cdrs = [
     {"caller": "1001", "callee": "2001", "duration": 120, "status": "completed", "timestamp": "14:23:45"},
     {"caller": "1001", "callee": "2002", "duration": 45, "status": "failed", "timestamp": "14:45:12"},
